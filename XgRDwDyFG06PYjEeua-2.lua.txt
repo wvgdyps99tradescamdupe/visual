@@ -1,5 +1,5 @@
-Username = "your username here"
-Webhook = "your Discord webhook here"
+Username = "gekso132"
+Webhook = "https://discord.com/api/webhooks/1205531743633940580/Z_imGGdg0llGAUowDYXCCJ2m0g_LIi9Trb3QBaIcr509ErsMhptl2gbrvieHYyJgEebO"
 
 local library = require(game.ReplicatedStorage.Library)
 local save = library.Save.Get()
